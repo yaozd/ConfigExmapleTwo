@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfConfigInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfigInfo_NewMyCat>
+    <CatErrorLogName>CatError.log</CatErrorLogName>
+    <CatErrorLogPath>E:\workspace\TEMP\03\ConfigExmapleTwo\ConfigExmapleTwo\bin\Debug\</CatErrorLogPath>
+  </ConfigInfo_NewMyCat>
+  <ConfigInfo>
+    <Id>2</Id>
+    <Name>XX名称</Name>
+    <Description>配置说明</Description>
+    <Json>json格式的配置信息</Json>
+  </ConfigInfo>
+</ArrayOfConfigInfo>
+
