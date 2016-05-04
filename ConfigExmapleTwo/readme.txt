@@ -1,5 +1,5 @@
 ﻿自定义配置解决方案Two--V0.01 说明：实现简单的配置加载
-
+https://github.com/yaozd/ConfigExmapleTwo
 作用：
 一个项目下需要相同节点配置信息
 e.g:
